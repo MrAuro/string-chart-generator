@@ -1,11 +1,12 @@
 {
-  "name": "string-chart-generator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Auro",
-  "license": "MIT"
+    "name": "string-chart-generator",
+    "version": "1.0.0",
+    "description": "Creates progress bar type charts from an array",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Auro",
+    "homepage": "https://github.com/MrAuro/string-chart-generator#readme",
+    "license": "MIT"
 }
