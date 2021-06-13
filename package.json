@@ -1,5 +1,5 @@
 {
-    "name": "string-chart-generator",
+    "name": "auro-string-chart-generator",
     "version": "1.0.0",
     "description": "Creates progress bar type charts from an array",
     "main": "index.js",

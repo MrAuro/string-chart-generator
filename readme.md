@@ -1,4 +1,6 @@
-a crappy progress bar percent type package
+"Creates progress bar type charts from an array"
+
+https://www.npmjs.com/package/auro-string-chart-generator
 
 i dont plan on updating or improving this. i was just needed something like this for a discord bot im making and thought other people might need it ![Okayge](https://cdn.frankerfacez.com/emote/410314/1)
 
